@@ -1,0 +1,25 @@
+   * {
+       margin: 0px;
+       padding: 0px;
+   }
+   
+   .navbar {
+       display: flex;
+       background-color: orange;
+       border-radius: 3px;
+   }
+   
+   .navbar ul {
+       display: flex;
+       list-style: none;
+   }
+   
+   .navbar ul li {
+       display: flex;
+       margin: 10px;
+       border-radius: 3px;
+   }
+   
+   .navbar ul li a {
+       text-decoration: none;
+   }
